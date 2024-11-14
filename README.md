@@ -48,7 +48,7 @@ Display the result.
 ## Program:
 
 ```
-NAME : PAVITHRA R
+NAME : SUBASHINI S
 REGISTER NO : 212222230106
 ```
 ### I)Perform ROI from an image:
