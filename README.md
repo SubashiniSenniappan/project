@@ -49,7 +49,7 @@ Display the result.
 
 ```
 NAME : SUBASHINI S
-REGISTER NO : 212222230106
+REGISTER NO : 212222240106
 ```
 ### I)Perform ROI from an image:
 ```
